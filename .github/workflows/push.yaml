@@ -1,4 +1,4 @@
-name: golang-pipline
+name: golang-piplinev1
 on: push
 jobs:
   test:
